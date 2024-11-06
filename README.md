@@ -14,13 +14,13 @@ Metric Converter adalah aplikasi yang dirancang menggunakan Android Studio. Apli
 
 <h1>PENGINSTALLAN</h1>
 
-1. Lakukan Clone Repository
+1. Download Aplikasi
 `Download aplikasi metric converter melalui link google drive diatas`
 
-2. Install
+2. Install Aplikasi
 `install aplikasi metric-converter`
 
-3. Jalankan 
+3. Jalankan Aplikasi
 `Jalankan aplikasi metric converter`
 
 <h1>PENGGUNAAN APLIKASI</h1>
